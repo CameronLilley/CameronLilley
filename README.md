@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@cameronlilley5" target="blank"><img src="https://img.shields.io/twitter/follow/@cameronlilley5?logo=twitter&style=for-the-badge" alt="@cameronlilley5" /></a> </p>
 
-- 🌱 I’m currently learning **JS and frameworks**
+- 🌱 I’m currently learning **JS and Swift**
 
 - 👨‍💻 All of my projects are available at [Cameronlilley.com](Cameronlilley.com)
 
